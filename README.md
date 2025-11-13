@@ -8,10 +8,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. import the stranded libraries
+2. set veriables for dataset values
+3. import lenear regression from sklearn
+4. assign the points for representing in graph
+5. predict the regression of the marks by representation of the graph
+6. compare the grapes and hence we have the lenear regression the given data 
 
 ## Program:
 ```
