@@ -63,9 +63,8 @@ plt.show()
 ## Output:
 <img width="869" height="656" alt="Screenshot 2025-11-13 091921" src="https://github.com/user-attachments/assets/b486a632-5652-4c75-9b0e-81782f835cfc" />
 
-Mean Squared Error (MSE) = 25.463280738222547
-Mean Absolute Error (MAE) = 4.691397441397438
-Root Mean Squared Error (RMSE) = 5.046115410711743
+<img width="915" height="113" alt="Screenshot 2025-11-27 090641" src="https://github.com/user-attachments/assets/a653c95d-9309-440d-a31b-ff761fc0e547" />
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
